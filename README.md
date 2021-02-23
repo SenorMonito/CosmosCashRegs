@@ -1,4 +1,4 @@
-# CosmosCashRegs
+# Cosmos Cash Regulations Report
 
 
 ## Pre-requisites
